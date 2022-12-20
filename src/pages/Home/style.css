@@ -1,0 +1,24 @@
+#main--home{
+    margin: 4rem;
+    text-align: center;
+}
+
+.titles--home {
+    margin-bottom: 3rem;
+}
+.titles--home h1{
+    font-size: 3rem;
+    margin-bottom: 1rem;
+}
+.titles--home h1 span{
+    background: var(--backgroundColor);
+    padding: 5px;
+    color: #eec029;
+}
+.titles--home p {
+    color: #797979;
+}
+
+.image--home .savings{
+    height: 60vh;
+}

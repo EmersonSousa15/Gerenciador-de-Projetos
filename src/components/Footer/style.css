@@ -1,0 +1,26 @@
+footer{
+    padding: 2rem;
+    text-align: center;
+    background: var(--backgroundColor);
+}
+
+footer .social--medias{
+    display: flex;
+    justify-content: center;
+}
+.social--medias .social--medias--icons{
+    margin: 5px 10px;
+}
+.social--medias--icons a{
+    color: #fff;
+    font-size: 2rem;
+    transition: 1s;
+}
+
+footer .credits p{
+    color: #fff;
+}
+
+.social--medias--icons a:hover{
+    color: #eec029;
+}
